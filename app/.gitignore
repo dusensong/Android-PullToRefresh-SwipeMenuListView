@@ -1,0 +1,15 @@
+.DS_Store
+target
+
+.idea
+
+.gradle
+
+build/
+
+*.iml
+*.hprof
+
+local.properties
+
+
