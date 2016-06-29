@@ -1,5 +1,7 @@
 # Android-PullToRefresh-SwipeMenuListView-Sample
 An Android sample integrates PullToRefresh with SwipeMenuListView
+
+注：原项目为Eclipse项目，将其转为AS项目
 ##Blog
 ####[http://blog.csdn.net/licaomengrice/article/details/46928381](http://blog.csdn.net/licaomengrice/article/details/46928381)
 
